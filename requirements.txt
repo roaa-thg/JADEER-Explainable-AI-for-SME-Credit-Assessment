@@ -1,0 +1,6 @@
+streamlit==1.46.0
+pandas
+numpy
+xgboost
+scikit-learn
+altair

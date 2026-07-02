@@ -22,6 +22,11 @@ streamlit run app.py
 
 ---
 
+
+أربعة كشوف حساب جاهزة للتجربة: test_clothing.csv و test_restaurant.csv و test_consulting.csv و test_shipping.csv
+ارفع أي منها في اللوحة عبر "➕ إضافة شركة جديدة" وشوف النموذج يقيّمها فوراً.
+
+
 ## 📁 شرح الملفات
 
 ### `app.py` — لوحة موظف الائتمان

@@ -6,6 +6,8 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 from smartlend import compute_signals, score_company
+import keep_alive
+keep_alive.ping()
 
 st.set_page_config(page_title="جدير", page_icon="🏦", layout="wide", initial_sidebar_state="expanded")
 

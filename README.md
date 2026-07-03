@@ -19,7 +19,7 @@
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
+link: https://nuhaai-jadeer.hf.space/
 ---
 
 
